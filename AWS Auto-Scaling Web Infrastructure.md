@@ -1,4 +1,4 @@
-# AWS Auto Scaling Group with ALB — Step-by-Step Guide
+# AWS Auto Scaling Group with ALB: Step-by-Step Guide
 
 ## 1. Create an EC2 instance + install your app
 
